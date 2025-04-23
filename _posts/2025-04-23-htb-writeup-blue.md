@@ -1,5 +1,5 @@
 ---
-title: "HTB Blue"
+title: "HTB - Blue"
 date: 2025-04-23 18:00:00 +0200
 categories: [HackTheBox, Writeup]
 tags: [windows, smb, nmap, metasploit]
