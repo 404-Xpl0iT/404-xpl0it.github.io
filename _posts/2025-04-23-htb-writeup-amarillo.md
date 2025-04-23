@@ -1,3 +1,16 @@
+---
+layout: post
+title: "HTB amarillo"
+date: 2025-04-23 10:00:00 +0200
+categories: [HTB, Writeups]
+tags: [windows, smb, exploit]
+pin: false
+comments: true
+---
+
+
+
+
 ¿Que es un protocolo HTTP?
 - HyperText tranducsfer protocol
 - Arquitectura cliente - servidor.
