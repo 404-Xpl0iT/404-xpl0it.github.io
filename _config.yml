@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 404Xpl0iT # the main title
+title: Justice-Reaper # the main title
 
 tagline: "• Penetration Tester<br>• Future BSCP<br>• Future OSCP<br>• CTF Player" # it will display as the sub-title
 
@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://justice-reaper.github.io/"
+url: "https://Justice-Reaper.github.io"
 
 # github:
 #   username: github_username # change to your github username
@@ -34,11 +34,11 @@ url: "https://justice-reaper.github.io/"
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 404Xpl0iT
+  name: Justice-Reaper
   # email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - # https://linktr.ee/Justice_Reaper
+    - https://linktr.ee/Justice_Reaper
     # - https://twitter.com/username # change to your twitter homepage
     # - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
@@ -97,7 +97,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/avatar.png"
+avatar: "/assets/img/avatar.jpeg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
