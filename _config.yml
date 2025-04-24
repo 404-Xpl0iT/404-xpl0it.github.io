@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://Justice-Reaper.github.io"
+url: "https://404-xpl0it.github.io/"
 
 # github:
 #   username: github_username # change to your github username
@@ -34,11 +34,11 @@ url: "https://Justice-Reaper.github.io"
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Justice-Reaper
+  name: 404Xpl0iT
   # email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://linktr.ee/Justice_Reaper
+    - # https://linktr.ee/Justice_Reaper
     # - https://twitter.com/username # change to your twitter homepage
     # - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
