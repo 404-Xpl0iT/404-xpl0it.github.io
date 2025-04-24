@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Justice-Reaper # the main title
+title: 404Xpl0it # the main title
 
 tagline: "• Penetration Tester<br>• Future BSCP<br>• Future OSCP<br>• CTF Player" # it will display as the sub-title
 
@@ -34,7 +34,7 @@ url: "https://404-xpl0it.github.io"
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Justice-Reaper
+  name: 404Xpl0it
   # email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
